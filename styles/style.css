@@ -606,7 +606,7 @@ div.fans {
 }
 
 .mail-us *:not(h3) {
-    color: rgb(121, 121, 121);
+    color: white;
 }
 
 .contact form {
